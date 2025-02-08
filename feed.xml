@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>My test website</title>
+    <link href="https://borismelcher.github.io/website/feed.xml" rel="self" />
+    <link href="https://borismelcher.github.io/website" />
+    <updated>2025-02-08T20:17:06+01:00</updated>
+    <author>
+        <name>Boris Melcher</name>
+    </author>
+    <id>https://borismelcher.github.io/website</id>
+
+    <entry>
+        <title>My test post</title>
+        <author>
+            <name>Boris Melcher</name>
+        </author>
+        <link href="https://borismelcher.github.io/website/my-test-post.html"/>
+        <id>https://borismelcher.github.io/website/my-test-post.html</id>
+
+        <updated>2025-02-08T20:17:06+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is arbitrary text for a website test.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is arbitrary text for a website test.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

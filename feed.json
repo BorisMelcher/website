@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My test website",
+    "description": "",
+    "home_page_url": "https://borismelcher.github.io/website",
+    "feed_url": "https://borismelcher.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Boris Melcher"
+    },
+    "items": [
+        {
+            "id": "https://borismelcher.github.io/website/my-test-post.html",
+            "url": "https://borismelcher.github.io/website/my-test-post.html",
+            "title": "My test post",
+            "summary": "This is arbitrary text for a website test.",
+            "content_html": "<p>This is arbitrary text for a website test.</p>",
+            "author": {
+                "name": "Boris Melcher"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-08T20:17:06+01:00",
+            "date_modified": "2025-02-08T20:17:06+01:00"
+        }
+    ]
+}

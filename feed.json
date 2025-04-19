@@ -2,16 +2,30 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "My test website",
     "description": "",
-    "home_page_url": "https://borismelcher.github.io/website",
-    "feed_url": "https://borismelcher.github.io/website/feed.json",
+    "home_page_url": "https://borismelcher.de",
+    "feed_url": "https://borismelcher.de/feed.json",
     "user_comment": "",
     "author": {
         "name": "Boris Melcher"
     },
     "items": [
         {
-            "id": "https://borismelcher.github.io/website/my-test-post.html",
-            "url": "https://borismelcher.github.io/website/my-test-post.html",
+            "id": "https://borismelcher.de/second-test-post.html",
+            "url": "https://borismelcher.de/second-test-post.html",
+            "title": "Second test post",
+            "summary": "This is a second arbitrairy text for a blog post test.",
+            "content_html": "<p>This is a second arbitrairy text for a blog post test.</p>",
+            "author": {
+                "name": "Boris Melcher"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-04-19T17:18:25+02:00",
+            "date_modified": "2025-04-19T17:18:25+02:00"
+        },
+        {
+            "id": "https://borismelcher.de/my-test-post.html",
+            "url": "https://borismelcher.de/my-test-post.html",
             "title": "My test post",
             "summary": "This is arbitrary text for a website test.",
             "content_html": "<p>This is arbitrary text for a website test.</p>",

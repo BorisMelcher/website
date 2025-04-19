@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>My test website</title>
-    <link href="https://borismelcher.github.io/website/feed.xml" rel="self" />
-    <link href="https://borismelcher.github.io/website" />
+    <link href="https://borismelcher.de/feed.xml" rel="self" />
+    <link href="https://borismelcher.de" />
     <updated>2025-04-19T17:18:25+02:00</updated>
     <author>
         <name>Boris Melcher</name>
     </author>
-    <id>https://borismelcher.github.io/website</id>
+    <id>https://borismelcher.de</id>
 
     <entry>
         <title>Second test post</title>
         <author>
             <name>Boris Melcher</name>
         </author>
-        <link href="https://borismelcher.github.io/website/second-test-post.html"/>
-        <id>https://borismelcher.github.io/website/second-test-post.html</id>
+        <link href="https://borismelcher.de/second-test-post.html"/>
+        <id>https://borismelcher.de/second-test-post.html</id>
 
         <updated>2025-04-19T17:18:25+02:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Boris Melcher</name>
         </author>
-        <link href="https://borismelcher.github.io/website/my-test-post.html"/>
-        <id>https://borismelcher.github.io/website/my-test-post.html</id>
+        <link href="https://borismelcher.de/my-test-post.html"/>
+        <id>https://borismelcher.de/my-test-post.html</id>
 
         <updated>2025-02-08T20:17:06+01:00</updated>
             <summary>

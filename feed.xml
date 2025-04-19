@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>My test website</title>
+    <title>Boris Melcher</title>
     <link href="https://www.borismelcher.de/feed.xml" rel="self" />
     <link href="https://www.borismelcher.de" />
-    <updated>2025-04-19T17:18:25+02:00</updated>
+    <updated>2025-04-19T20:41:17+02:00</updated>
     <author>
         <name>Boris Melcher</name>
     </author>
     <id>https://www.borismelcher.de</id>
 
+    <entry>
+        <title>Random Post #3</title>
+        <author>
+            <name>Boris Melcher</name>
+        </author>
+        <link href="https://www.borismelcher.de/random-post-3.html"/>
+        <id>https://www.borismelcher.de/random-post-3.html</id>
+        <media:content url="https://www.borismelcher.de/media/posts/3/010-16.CR2.jpg" medium="image" />
+
+        <updated>2025-04-19T20:41:17+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Second test post</title>
         <author>
@@ -25,7 +38,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a second arbitrairy text for a blog post test.</p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.borismelcher.de/media/posts/2/026-13.CR2.jpg" alt="" width="2000" height="1300" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.borismelcher.de/media/posts/2/responsive/026-13.CR2-xs.jpg 300w ,https://www.borismelcher.de/media/posts/2/responsive/026-13.CR2-sm.jpg 480w ,https://www.borismelcher.de/media/posts/2/responsive/026-13.CR2-md.jpg 768w ,https://www.borismelcher.de/media/posts/2/responsive/026-13.CR2-lg.jpg 1024w"></figure>This is a second arbitrairy text for a blog post test.</p>
             ]]>
         </content>
     </entry>
